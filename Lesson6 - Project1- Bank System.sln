@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lesson6 - Project1- Bank System", "Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System.vcxproj", "{BDCE87AE-3217-4284-8968-AC218355BCAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDCE87AE-3217-4284-8968-AC218355BCAC}.Debug|x64.ActiveCfg = Debug|x64
+		{BDCE87AE-3217-4284-8968-AC218355BCAC}.Debug|x64.Build.0 = Debug|x64
+		{BDCE87AE-3217-4284-8968-AC218355BCAC}.Debug|x86.ActiveCfg = Debug|Win32
+		{BDCE87AE-3217-4284-8968-AC218355BCAC}.Debug|x86.Build.0 = Debug|Win32
+		{BDCE87AE-3217-4284-8968-AC218355BCAC}.Release|x64.ActiveCfg = Release|x64
+		{BDCE87AE-3217-4284-8968-AC218355BCAC}.Release|x64.Build.0 = Release|x64
+		{BDCE87AE-3217-4284-8968-AC218355BCAC}.Release|x86.ActiveCfg = Release|Win32
+		{BDCE87AE-3217-4284-8968-AC218355BCAC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F30141E-7F6D-4D07-B25F-948599774FE9}
+	EndGlobalSection
+EndGlobal

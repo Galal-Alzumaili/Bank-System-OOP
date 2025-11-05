@@ -1,0 +1,87 @@
+﻿  Lesson6 - Project1- Bank System.cpp
+C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Lesson6%20-%20Project1-%20Bank%20System.cpp')
+  
+C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Lesson6%20-%20Project1-%20Bank%20System.cpp')
+  
+C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Lesson6%20-%20Project1-%20Bank%20System.cpp')
+  
+C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Lesson6%20-%20Project1-%20Bank%20System.cpp')
+  
+C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Lesson6%20-%20Project1-%20Bank%20System.cpp')
+  
+C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Lesson6%20-%20Project1-%20Bank%20System.cpp')
+  
+C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Lesson6%20-%20Project1-%20Bank%20System.cpp')
+  
+C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System\clsUser.h(198,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Lesson6%20-%20Project1-%20Bank%20System.cpp')
+      C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System\clsUser.h(169,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System\clsInputValidate.h(123,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Lesson6%20-%20Project1-%20Bank%20System.cpp')
+  
+C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System\clsInputValidate.h(127,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Lesson6%20-%20Project1-%20Bank%20System.cpp')
+  
+C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System\clsBankClient.h(187,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLog' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Lesson6%20-%20Project1-%20Bank%20System.cpp')
+      C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System\clsBankClient.h(166,9):
+      see declaration of 'clsBankClient::stTransferLog'
+  
+C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System\clsBankClient.h(30,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Lesson6%20-%20Project1-%20Bank%20System.cpp')
+  
+C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System\clsBankClient.h(151,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Lesson6%20-%20Project1-%20Bank%20System.cpp')
+  
+C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System\clsBankClient.h(346,23): warning C4353: nonstandard extension used: constant 0 as function expression.  Use '__noop' function intrinsic instead
+  (compiling source file 'Lesson6%20-%20Project1-%20Bank%20System.cpp')
+  
+C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System\clsBankClient.h(402,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Lesson6%20-%20Project1-%20Bank%20System.cpp')
+  
+C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System\clsBankClient.h(412,23): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Lesson6%20-%20Project1-%20Bank%20System.cpp')
+  
+C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System\clsAddNewClientScreen.h(32,60): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Lesson6%20-%20Project1-%20Bank%20System.cpp')
+  
+C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System\clsUpdateClientScreen.h(46,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Lesson6%20-%20Project1-%20Bank%20System.cpp')
+  
+C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System\clsTotalBalancesScreen.h(58,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Lesson6%20-%20Project1-%20Bank%20System.cpp')
+  
+C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System\clsTransferScreen.h(44,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Lesson6%20-%20Project1-%20Bank%20System.cpp')
+  
+C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System\clsTransferScreen.h(49,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Lesson6%20-%20Project1-%20Bank%20System.cpp')
+  
+C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System\clsCurrency.h(29,8): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Lesson6%20-%20Project1-%20Bank%20System.cpp')
+  
+C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System\clsCurrencyExchangeScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Lesson6%20-%20Project1-%20Bank%20System.cpp')
+  
+C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System\clsCurrencyExchangeScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Lesson6%20-%20Project1-%20Bank%20System.cpp')
+  
+C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System\clsUpdateCurrencyScreen.h(30,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Lesson6%20-%20Project1-%20Bank%20System.cpp')
+  
+C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System\clsCurrencyCalculator.h(16,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Lesson6%20-%20Project1-%20Bank%20System.cpp')
+  
+C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System\clsBankClient.h(361,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System\clsBankClient.h(415,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\Lesson6 - Project1- Bank System\clsUser.h(354,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Lesson6 - Project1- Bank System.vcxproj -> C:\Users\Jalal\Desktop\Programming Advice\11 - OOP as it Should Be (Applications)\C++ Files\Lesson6 - Project1- Bank System\x64\Debug\Lesson6 - Project1- Bank System.exe
